@@ -1,5 +1,5 @@
 % Stadgar - Python Sverige
-% Antagits på årsmöte 2013-01-08
+% Antagits på årsmöte 2014-01-08
 
 Namn
 ====
